@@ -1,0 +1,58 @@
+{
+  "app/connectors/cvpis.py": {
+    "baseline": "0d46e009dcf5fe62121406b864b657ca5ed5c88de3a5decdfc966e1706061b55",
+    "release": "0d46e009dcf5fe62121406b864b657ca5ed5c88de3a5decdfc966e1706061b55"
+  },
+  "app/connectors/ekr.py": {
+    "baseline": "c857a688b989b6c73096b4c7abf4fe2eb53014ff266168cd4cf2f385a4c5bac6",
+    "release": "c857a688b989b6c73096b4c7abf4fe2eb53014ff266168cd4cf2f385a4c5bac6"
+  },
+  "app/connectors/estonia.py": {
+    "baseline": "1070525f7534073ae5feedc26eef2dd92a33ee1e6febf5cbca7613d4ee9c45af",
+    "release": "1070525f7534073ae5feedc26eef2dd92a33ee1e6febf5cbca7613d4ee9c45af"
+  },
+  "app/connectors/germany.py": {
+    "baseline": "bb3a9a683ececa9f2d42342090b2b8975d40f281d1b0497a770c82cf456993e0",
+    "release": "bb3a9a683ececa9f2d42342090b2b8975d40f281d1b0497a770c82cf456993e0"
+  },
+  "app/connectors/latvia.py": {
+    "baseline": "dbf1a0eeeb9d56f0ef548e99fb45be92b93b79f3fa3a9f31157b8bb3dee744dc",
+    "release": "dbf1a0eeeb9d56f0ef548e99fb45be92b93b79f3fa3a9f31157b8bb3dee744dc"
+  },
+  "app/connectors/nen.py": {
+    "baseline": "a935c77baa21bb820a72221dc1e97ace056f7149b00d23fe20d7085aea969eac",
+    "release": "a935c77baa21bb820a72221dc1e97ace056f7149b00d23fe20d7085aea969eac"
+  },
+  "app/connectors/prozorro.py": {
+    "baseline": "0cc33ef572d02d4f932db95aaf53e8a558392f8115d5a9d2f7269ddcbad8c441",
+    "release": "0cc33ef572d02d4f932db95aaf53e8a558392f8115d5a9d2f7269ddcbad8c441"
+  },
+  "app/connectors/slovakia.py": {
+    "baseline": "f0605dd54ad05a7ddbe080e508ddaa6c852fde2e09a392836756ab04312b2929",
+    "release": "f0605dd54ad05a7ddbe080e508ddaa6c852fde2e09a392836756ab04312b2929"
+  },
+  "app/connectors/ted.py": {
+    "baseline": "5853bb603fe7149a258d4b00efc015f392162fc29c8e4a5bcd3a2d30d0af8503",
+    "release": "5853bb603fe7149a258d4b00efc015f392162fc29c8e4a5bcd3a2d30d0af8503"
+  },
+  "app/connectors/turkey.py": {
+    "baseline": "38ab8aa0fcd764f6212900251427a4a74045f1dd68d5c7741ed6d22ca1c5d40f",
+    "release": "38ab8aa0fcd764f6212900251427a4a74045f1dd68d5c7741ed6d22ca1c5d40f"
+  },
+  "app/connectors/bzp.py": {
+    "baseline": "ec93610760d97c15bd0a33eea3cce28ad607a0c6f7a8748510a2519271f60480",
+    "release": "ec93610760d97c15bd0a33eea3cce28ad607a0c6f7a8748510a2519271f60480"
+  },
+  "app/connectors/common.py": {
+    "baseline": "f6ef73cdfd65495ed579faadd7d779a1726ddeada9e738c98f9a13d726fe10f5",
+    "release": "f6ef73cdfd65495ed579faadd7d779a1726ddeada9e738c98f9a13d726fe10f5"
+  },
+  "app/translate.py": {
+    "baseline": "a946738ad04de1e56b4a5090f03a973b70c608e1245168e92d6ca5af01cb3e2a",
+    "release": "a946738ad04de1e56b4a5090f03a973b70c608e1245168e92d6ca5af01cb3e2a"
+  },
+  "data/filters.json": {
+    "baseline": "06a15275ce05e1ef4c98394f84adbae18af1932f5e14628a6de6197e9acacd65",
+    "release": "06a15275ce05e1ef4c98394f84adbae18af1932f5e14628a6de6197e9acacd65"
+  }
+}
